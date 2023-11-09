@@ -1,5 +1,5 @@
 # Step By Step Netbox
-
+Para iniciar e executar o NetBox Docker, utilize os seguintes comandos. Há um guia mais completo de Introdução em nossa wiki que explica cada passo.
 
 # Step1:
 ```shell

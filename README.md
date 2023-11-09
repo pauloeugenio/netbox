@@ -2,8 +2,7 @@
 
 
 #Step1:
-<pre>
-<code>
+<pre><code>
 git clone -b release https://github.com/netbox-community/netbox-docker.git
 cd netbox-docker
 tee docker-compose.override.yml <<EOF
@@ -15,5 +14,4 @@ services:
 EOF
 docker compose pull
 docker compose up
-</code>
-</pre>
+</code></pre>

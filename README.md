@@ -2,6 +2,7 @@
 
 
 #Step1:
+<pre>
 <code>
 git clone -b release https://github.com/netbox-community/netbox-docker.git
 cd netbox-docker
@@ -15,3 +16,4 @@ EOF
 docker compose pull
 docker compose up
 </code>
+</pre>
